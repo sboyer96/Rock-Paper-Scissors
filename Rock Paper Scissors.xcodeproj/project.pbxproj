@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		072E61642D5E702D003A5907 /* Rock, Paper, Scissors MessagesExtension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = 072E61632D5E702D003A5907 /* Rock, Paper, Scissors MessagesExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		072E61642D5E702D003A5907 /* Rock Paper Scissors MessagesExtension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = 072E61632D5E702D003A5907 /* Rock Paper Scissors MessagesExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		072E61692D5E702D003A5907 /* Messages.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 072E61682D5E702D003A5907 /* Messages.framework */; };
 /* End PBXBuildFile section */
 
@@ -28,7 +28,7 @@
 			dstPath = "";
 			dstSubfolderSpec = 13;
 			files = (
-				072E61642D5E702D003A5907 /* Rock, Paper, Scissors MessagesExtension.appex in Embed Foundation Extensions */,
+				072E61642D5E702D003A5907 /* Rock Paper Scissors MessagesExtension.appex in Embed Foundation Extensions */,
 			);
 			name = "Embed Foundation Extensions";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -36,33 +36,33 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		072E615A2D5E702C003A5907 /* Rock, Paper, Scissors.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Rock, Paper, Scissors.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		072E61632D5E702D003A5907 /* Rock, Paper, Scissors MessagesExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "Rock, Paper, Scissors MessagesExtension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
+		072E615A2D5E702C003A5907 /* Rock Paper Scissors.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Rock Paper Scissors.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		072E61632D5E702D003A5907 /* Rock Paper Scissors MessagesExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "Rock Paper Scissors MessagesExtension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
 		072E61682D5E702D003A5907 /* Messages.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Messages.framework; path = System/Library/Frameworks/Messages.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		072E61732D5E702E003A5907 /* Exceptions for "Rock, Paper, Scissors MessagesExtension" folder in "Rock, Paper, Scissors MessagesExtension" target */ = {
+		072E61732D5E702E003A5907 /* Exceptions for "Rock Paper Scissors MessagesExtension" folder in "Rock Paper Scissors MessagesExtension" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = 072E61622D5E702D003A5907 /* Rock, Paper, Scissors MessagesExtension */;
+			target = 072E61622D5E702D003A5907 /* Rock Paper Scissors MessagesExtension */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		072E615C2D5E702C003A5907 /* Rock, Paper, Scissors */ = {
+		072E615C2D5E702C003A5907 /* Rock Paper Scissors */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "Rock, Paper, Scissors";
+			path = "Rock Paper Scissors";
 			sourceTree = "<group>";
 		};
-		072E616A2D5E702D003A5907 /* Rock, Paper, Scissors MessagesExtension */ = {
+		072E616A2D5E702D003A5907 /* Rock Paper Scissors MessagesExtension */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				072E61732D5E702E003A5907 /* Exceptions for "Rock, Paper, Scissors MessagesExtension" folder in "Rock, Paper, Scissors MessagesExtension" target */,
+				072E61732D5E702E003A5907 /* Exceptions for "Rock Paper Scissors MessagesExtension" folder in "Rock Paper Scissors MessagesExtension" target */,
 			);
-			path = "Rock, Paper, Scissors MessagesExtension";
+			path = "Rock Paper Scissors MessagesExtension";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -82,8 +82,8 @@
 		072E61532D5E702C003A5907 = {
 			isa = PBXGroup;
 			children = (
-				072E615C2D5E702C003A5907 /* Rock, Paper, Scissors */,
-				072E616A2D5E702D003A5907 /* Rock, Paper, Scissors MessagesExtension */,
+				072E615C2D5E702C003A5907 /* Rock Paper Scissors */,
+				072E616A2D5E702D003A5907 /* Rock Paper Scissors MessagesExtension */,
 				072E61672D5E702D003A5907 /* Frameworks */,
 				072E615B2D5E702C003A5907 /* Products */,
 			);
@@ -92,8 +92,8 @@
 		072E615B2D5E702C003A5907 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				072E615A2D5E702C003A5907 /* Rock, Paper, Scissors.app */,
-				072E61632D5E702D003A5907 /* Rock, Paper, Scissors MessagesExtension.appex */,
+				072E615A2D5E702C003A5907 /* Rock Paper Scissors.app */,
+				072E61632D5E702D003A5907 /* Rock Paper Scissors MessagesExtension.appex */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -109,9 +109,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		072E61592D5E702C003A5907 /* Rock, Paper, Scissors */ = {
+		072E61592D5E702C003A5907 /* Rock Paper Scissors */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 072E617A2D5E702E003A5907 /* Build configuration list for PBXNativeTarget "Rock, Paper, Scissors" */;
+			buildConfigurationList = 072E617A2D5E702E003A5907 /* Build configuration list for PBXNativeTarget "Rock Paper Scissors" */;
 			buildPhases = (
 				072E61582D5E702C003A5907 /* Resources */,
 				072E61792D5E702E003A5907 /* Embed Foundation Extensions */,
@@ -122,18 +122,18 @@
 				072E61662D5E702D003A5907 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				072E615C2D5E702C003A5907 /* Rock, Paper, Scissors */,
+				072E615C2D5E702C003A5907 /* Rock Paper Scissors */,
 			);
-			name = "Rock, Paper, Scissors";
+			name = "Rock Paper Scissors";
 			packageProductDependencies = (
 			);
 			productName = "Rock, Paper, Scissors";
-			productReference = 072E615A2D5E702C003A5907 /* Rock, Paper, Scissors.app */;
+			productReference = 072E615A2D5E702C003A5907 /* Rock Paper Scissors.app */;
 			productType = "com.apple.product-type.application.messages";
 		};
-		072E61622D5E702D003A5907 /* Rock, Paper, Scissors MessagesExtension */ = {
+		072E61622D5E702D003A5907 /* Rock Paper Scissors MessagesExtension */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 072E61742D5E702E003A5907 /* Build configuration list for PBXNativeTarget "Rock, Paper, Scissors MessagesExtension" */;
+			buildConfigurationList = 072E61742D5E702E003A5907 /* Build configuration list for PBXNativeTarget "Rock Paper Scissors MessagesExtension" */;
 			buildPhases = (
 				072E615F2D5E702D003A5907 /* Sources */,
 				072E61602D5E702D003A5907 /* Frameworks */,
@@ -144,13 +144,13 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				072E616A2D5E702D003A5907 /* Rock, Paper, Scissors MessagesExtension */,
+				072E616A2D5E702D003A5907 /* Rock Paper Scissors MessagesExtension */,
 			);
-			name = "Rock, Paper, Scissors MessagesExtension";
+			name = "Rock Paper Scissors MessagesExtension";
 			packageProductDependencies = (
 			);
 			productName = "Rock, Paper, Scissors MessagesExtension";
-			productReference = 072E61632D5E702D003A5907 /* Rock, Paper, Scissors MessagesExtension.appex */;
+			productReference = 072E61632D5E702D003A5907 /* Rock Paper Scissors MessagesExtension.appex */;
 			productType = "com.apple.product-type.app-extension.messages";
 		};
 /* End PBXNativeTarget section */
@@ -171,7 +171,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 072E61572D5E702C003A5907 /* Build configuration list for PBXProject "Rock, Paper, Scissors" */;
+			buildConfigurationList = 072E61572D5E702C003A5907 /* Build configuration list for PBXProject "Rock Paper Scissors" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -185,8 +185,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				072E61592D5E702C003A5907 /* Rock, Paper, Scissors */,
-				072E61622D5E702D003A5907 /* Rock, Paper, Scissors MessagesExtension */,
+				072E61592D5E702C003A5907 /* Rock Paper Scissors */,
+				072E61622D5E702D003A5907 /* Rock Paper Scissors MessagesExtension */,
 			);
 		};
 /* End PBXProject section */
@@ -221,7 +221,7 @@
 /* Begin PBXTargetDependency section */
 		072E61662D5E702D003A5907 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 072E61622D5E702D003A5907 /* Rock, Paper, Scissors MessagesExtension */;
+			target = 072E61622D5E702D003A5907 /* Rock Paper Scissors MessagesExtension */;
 			targetProxy = 072E61652D5E702D003A5907 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -441,7 +441,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		072E61572D5E702C003A5907 /* Build configuration list for PBXProject "Rock, Paper, Scissors" */ = {
+		072E61572D5E702C003A5907 /* Build configuration list for PBXProject "Rock Paper Scissors" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				072E61772D5E702E003A5907 /* Debug */,
@@ -450,7 +450,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		072E61742D5E702E003A5907 /* Build configuration list for PBXNativeTarget "Rock, Paper, Scissors MessagesExtension" */ = {
+		072E61742D5E702E003A5907 /* Build configuration list for PBXNativeTarget "Rock Paper Scissors MessagesExtension" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				072E61752D5E702E003A5907 /* Debug */,
@@ -459,7 +459,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		072E617A2D5E702E003A5907 /* Build configuration list for PBXNativeTarget "Rock, Paper, Scissors" */ = {
+		072E617A2D5E702E003A5907 /* Build configuration list for PBXNativeTarget "Rock Paper Scissors" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				072E617B2D5E702E003A5907 /* Debug */,
